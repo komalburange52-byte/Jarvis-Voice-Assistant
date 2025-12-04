@@ -110,16 +110,6 @@ Add ChatGPT integration
 Add GUI interface
 
 
-
----
-
-👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/<your-username>
-Email: your-email@gmail.com
-
-
 ---
 
 📜 License
